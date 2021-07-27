@@ -1,1 +1,1 @@
-Repository to store analsis of different dataset and make indight of data 
+Repository to store analysis of different dataset and make meaningful indight of data 
